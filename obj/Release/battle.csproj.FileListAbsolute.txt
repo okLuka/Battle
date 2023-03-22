@@ -1,0 +1,11 @@
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\bin\Release\battle.exe.config
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\bin\Release\battle.exe
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\bin\Release\battle.pdb
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Release\battle.csprojAssemblyReference.cache
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Release\battle.choose.resources
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Release\battle.game.resources
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Release\battle.battle.resources
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Release\battle.Properties.Resources.resources
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Release\battle.csproj.GenerateResource.cache
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Release\battle.exe
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Release\battle.pdb

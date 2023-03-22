@@ -1,0 +1,45 @@
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\bin\Debug\The battle.exe.config
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\bin\Debug\The battle.exe
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\bin\Debug\The battle.pdb
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Debug\battle.choose.resources
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Debug\battle.game.resources
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Debug\battle.results.resources
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Debug\battle.battle.resources
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Debug\battle.Properties.Resources.resources
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Debug\The battle.csproj.GenerateResource.cache
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Debug\The battle.exe
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Debug\The battle.pdb
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Debug\The battle.csprojAssemblyReference.cache
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\bin\Debug\The battle.exe.config
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\bin\Debug\The battle.exe
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\bin\Debug\The battle.pdb
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Debug\The battle.csprojAssemblyReference.cache
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Debug\battle.choose.resources
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Debug\battle.game.resources
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Debug\battle.results.resources
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Debug\battle.battle.resources
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Debug\battle.Properties.Resources.resources
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Debug\The battle.csproj.GenerateResource.cache
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Debug\The battle.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Debug\The battle.exe
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Debug\The battle.pdb
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Debug\The battle.csproj.CopyComplete
+D:\любимая шарга\Технологии программирования\курсач\последний рывочек\Код Структурное тестирование и отладка БПИ-20-7 Сорохтин Василий Кириллович\battle\bin\Debug\The battle.exe.config
+D:\любимая шарга\Технологии программирования\курсач\последний рывочек\Код Структурное тестирование и отладка БПИ-20-7 Сорохтин Василий Кириллович\battle\bin\Debug\The battle.exe
+D:\любимая шарга\Технологии программирования\курсач\последний рывочек\Код Структурное тестирование и отладка БПИ-20-7 Сорохтин Василий Кириллович\battle\bin\Debug\The battle.pdb
+D:\любимая шарга\Технологии программирования\курсач\последний рывочек\Код Структурное тестирование и отладка БПИ-20-7 Сорохтин Василий Кириллович\battle\bin\Debug\nunit.framework.dll
+D:\любимая шарга\Технологии программирования\курсач\последний рывочек\Код Структурное тестирование и отладка БПИ-20-7 Сорохтин Василий Кириллович\battle\bin\Debug\nunit.framework.xml
+D:\любимая шарга\Технологии программирования\курсач\последний рывочек\Код Структурное тестирование и отладка БПИ-20-7 Сорохтин Василий Кириллович\battle\obj\Debug\The battle.csproj.AssemblyReference.cache
+D:\любимая шарга\Технологии программирования\курсач\последний рывочек\Код Структурное тестирование и отладка БПИ-20-7 Сорохтин Василий Кириллович\battle\obj\Debug\The battle.csproj.SuggestedBindingRedirects.cache
+D:\любимая шарга\Технологии программирования\курсач\последний рывочек\Код Структурное тестирование и отладка БПИ-20-7 Сорохтин Василий Кириллович\battle\obj\Debug\battle.choose.resources
+D:\любимая шарга\Технологии программирования\курсач\последний рывочек\Код Структурное тестирование и отладка БПИ-20-7 Сорохтин Василий Кириллович\battle\obj\Debug\battle.game.resources
+D:\любимая шарга\Технологии программирования\курсач\последний рывочек\Код Структурное тестирование и отладка БПИ-20-7 Сорохтин Василий Кириллович\battle\obj\Debug\battle.results.resources
+D:\любимая шарга\Технологии программирования\курсач\последний рывочек\Код Структурное тестирование и отладка БПИ-20-7 Сорохтин Василий Кириллович\battle\obj\Debug\battle.battle.resources
+D:\любимая шарга\Технологии программирования\курсач\последний рывочек\Код Структурное тестирование и отладка БПИ-20-7 Сорохтин Василий Кириллович\battle\obj\Debug\battle.Properties.Resources.resources
+D:\любимая шарга\Технологии программирования\курсач\последний рывочек\Код Структурное тестирование и отладка БПИ-20-7 Сорохтин Василий Кириллович\battle\obj\Debug\The battle.csproj.GenerateResource.cache
+D:\любимая шарга\Технологии программирования\курсач\последний рывочек\Код Структурное тестирование и отладка БПИ-20-7 Сорохтин Василий Кириллович\battle\obj\Debug\The battle.csproj.CoreCompileInputs.cache
+D:\любимая шарга\Технологии программирования\курсач\последний рывочек\Код Структурное тестирование и отладка БПИ-20-7 Сорохтин Василий Кириллович\battle\obj\Debug\The battle.csproj.CopyComplete
+D:\любимая шарга\Технологии программирования\курсач\последний рывочек\Код Структурное тестирование и отладка БПИ-20-7 Сорохтин Василий Кириллович\battle\obj\Debug\The battle.exe
+D:\любимая шарга\Технологии программирования\курсач\последний рывочек\Код Структурное тестирование и отладка БПИ-20-7 Сорохтин Василий Кириллович\battle\obj\Debug\The battle.pdb

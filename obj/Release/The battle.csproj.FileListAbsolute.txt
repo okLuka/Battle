@@ -1,0 +1,28 @@
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Release\battle.choose.resources
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Release\battle.game.resources
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Release\battle.results.resources
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Release\battle.battle.resources
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Release\battle.Properties.Resources.resources
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Release\The battle.csproj.GenerateResource.cache
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Release\The battle.csprojAssemblyReference.cache
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\bin\Release\The battle.exe.config
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\bin\Release\The battle.exe
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\bin\Release\The battle.pdb
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Release\The battle.exe
+C:\Users\m2005838\Desktop\хуяпка\прога\курсач\battle\battle\obj\Release\The battle.pdb
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\bin\Release\The battle.exe.config
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\bin\Release\The battle.exe
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\bin\Release\The battle.pdb
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\bin\Release\nunit.framework.dll
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\bin\Release\nunit.framework.xml
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Release\The battle.csprojAssemblyReference.cache
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Release\battle.choose.resources
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Release\battle.game.resources
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Release\battle.results.resources
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Release\battle.battle.resources
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Release\battle.Properties.Resources.resources
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Release\The battle.csproj.GenerateResource.cache
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Release\The battle.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Release\The battle.csproj.CopyComplete
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Release\The battle.exe
+C:\Users\User\Desktop\шарпотладка\717639 файлы\Архив\battle\battle\obj\Release\The battle.pdb
